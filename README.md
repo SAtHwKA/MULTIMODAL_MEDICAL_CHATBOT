@@ -44,8 +44,8 @@ Load the LLaVA vision-language model, Whisper speech recognition model, and gTTS
 ### 3. Input Processing
 Accept user input in the form of:
 - Text
-- Image *(Optional)*
-- Audio *(Optional)*
+- Image 
+- Audio 
 
 ### 4. Integrated LLaVA Interface
 Launch the live Gradio chatbot interface where users can interact with the chatbot by submitting text, images, or audio queries. The chatbot processes the inputs and generates AI-powered text and voice responses in real time.
