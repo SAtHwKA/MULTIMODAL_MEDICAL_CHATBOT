@@ -6,7 +6,7 @@ The Multi-Modal Medical Chatbot is a multimodal AI application developed using P
 
 ## Overview
 
-The Multi-Model Medical Chatbot integrates multiple AI models to support different input modalities. Users can ask health-related questions by entering text, uploading an image, or providing an audio recording. The chatbot processes the input and generates both text and voice responses.
+The Multi-Modal Medical Chatbot integrates multiple AI models to support different input modalities. Users can ask health-related questions by entering text, uploading an image, or providing an audio recording. The chatbot processes the input and generates both text and voice responses.
 
 ---
 
