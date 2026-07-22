@@ -4,9 +4,8 @@ transformers
 accelerate
 bitsandbytes
 gradio
+gTTS
+pydub
 librosa
 numpy
 Pillow
-gTTS
-pydub
-sentencepiece
