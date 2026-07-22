@@ -1,6 +1,6 @@
 # 🩺 Multi-Modal Medical Chatbot
 
-The Multi-Modal Medical Chatbot is a multimodal AI application developed using Python and Gradio. It accepts text, image, and audio inputs to generate informative health and wellness responses. The system integrates vision-language and speech recognition models to provide a simple interactive experience.
+A multimodal AI-powered chatbot that accepts text, images, and audio as input to provide general health and wellness information through an interactive Gradio interface.
 
 ---
 
